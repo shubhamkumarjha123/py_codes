@@ -12,6 +12,7 @@ sales = [22,4,52,65,15,2,76,9,]
 
 x = numpy.mean(sales)
 
+#output
 print(x)
 
 
