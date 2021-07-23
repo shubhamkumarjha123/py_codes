@@ -1,0 +1,13 @@
+def reverse(no):
+  str = ""
+  for i in no:
+    str = i + str
+  return str
+  
+no = input("enter char -")
+  
+print ("The original string  is - ",end="")
+print (no)
+  
+print ("The reversed string(using loops) is - ",end="")
+print (reverse(no))
