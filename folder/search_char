@@ -1,0 +1,9 @@
+s = input("Enter any string : ")
+m = input("Which character too search : ")
+count = 0
+for i in s: 
+    if i == m:
+        count+=1
+        
+print(count)
+
