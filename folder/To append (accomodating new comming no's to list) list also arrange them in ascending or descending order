@@ -1,0 +1,115 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## To append (accomodating new comming no's to list) list also arrange them in ascending or descending order."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Enter the length of the list :4\n",
+      "Enter the Elements of the list \n",
+      "1\n",
+      "Enter the Elements of the list \n",
+      "3\n",
+      "Enter the Elements of the list \n",
+      "5\n",
+      "Enter the Elements of the list \n",
+      "7\n",
+      "[1, 3, 5, 7]\n"
+     ]
+    }
+   ],
+   "source": [
+    "L=[]\n",
+    "a=int(input(\"Enter the length of the list :\"))\n",
+    "for i in range(a):\n",
+    "    ele=int(input(\"Enter the Elements of the list \\n\"))\n",
+    "    L.append(ele)\n",
+    "n=len(L)\n",
+    "for i in range(n//2):\n",
+    "    temp=L[i]     #L[i]=5,L[n-1]=1\n",
+    "    L[i]=L[n-i-1]\n",
+    "    L[n-i-1]=temp\n",
+    "L.sort()# to arrange in ascending order\n",
+    "print(L)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Enter the length of the list :5\n",
+      "Enter the Elements of the list \n",
+      "4\n",
+      "Enter the Elements of the list \n",
+      "2\n",
+      "Enter the Elements of the list \n",
+      "47\n",
+      "Enter the Elements of the list \n",
+      "88\n",
+      "Enter the Elements of the list \n",
+      "9\n",
+      "[88, 47, 9, 4, 2]\n"
+     ]
+    }
+   ],
+   "source": [
+    "L=[]\n",
+    "a=int(input(\"Enter the length of the list :\"))\n",
+    "for i in range(a):\n",
+    "    ele=int(input(\"Enter the Elements of the list \\n\"))\n",
+    "    L.append(ele)\n",
+    "n=len(L)\n",
+    "for i in range(n//2):\n",
+    "    temp=L[i]     #L[i]=5,L[n-1]=1\n",
+    "    L[i]=L[n-i-1]\n",
+    "    L[n-i-1]=temp\n",
+    "L.sort(reverse = True)# to arrange in descending order\n",
+    "print(L)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
