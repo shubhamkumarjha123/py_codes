@@ -8,7 +8,7 @@ z = float(input('third side:'))
 
 # Calculating semi-perimeter
 s = (x + y + z) / 2
-# Area
+# Area formula
 area = (s*(s-x)*(s-y)*(s-z)) ** 0.5
 print('Area of triangle %0.2f' %area)
 ```
