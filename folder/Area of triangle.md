@@ -6,7 +6,7 @@ x = float(input('first side:'))
 y = float(input('second side:'))
 z = float(input('third side:'))
 
-# Calculating semi-perimeter
+# Calculating semi-perimeter.
 s = (x + y + z) / 2
 # Area formula
 area = (s*(s-x)*(s-y)*(s-z)) ** 0.5
