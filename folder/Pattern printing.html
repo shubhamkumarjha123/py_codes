@@ -80,7 +80,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
  * will match lower in the tree, and so will override the above */
 [data-jp-theme-scrollbars='true'] .CodeMirror-hscrollbar,
 [data-jp-theme-scrollbars='true'] .CodeMirror-vscrollbar {
-  scrollbar-color: rgba(var(--jp-scrollbar-thumb-color), 0.5) transparent;
+  scrollbar-color: rgba(var(--jp-scrollbar-thumb-color), 0.6) transparent;
 }
 
 /*
@@ -153,26 +153,26 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
  */
 
 .lm-ScrollBar[data-orientation='horizontal'] {
-  min-height: 16px;
-  max-height: 16px;
-  min-width: 45px;
-  border-top: 1px solid #a0a0a0;
+  min-height: 17px;
+  max-height: 13px;
+  min-width: 41px;
+  border-top: 1.4px solid #a0a0a0;
 }
 
 .lm-ScrollBar[data-orientation='vertical'] {
-  min-width: 16px;
-  max-width: 16px;
-  min-height: 45px;
-  border-left: 1px solid #a0a0a0;
+  min-width: 15px;
+  max-width: 10px;
+  min-height: 41px;
+  border-left: 1.4px solid #a0a0a0;
 }
 
 .lm-ScrollBar-button {
   background-color: #f0f0f0;
   background-position: center center;
-  min-height: 15px;
-  max-height: 15px;
+  min-height: 11px;
+  max-height: 13px;
   min-width: 15px;
-  max-width: 15px;
+  max-width: 17px;
 }
 
 .lm-ScrollBar-button:hover {
@@ -291,9 +291,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 /* <DEPRECATED> */ .p-CommandPalette-content, /* </DEPRECATED> */
 .lm-CommandPalette-content {
   flex: 1 1 auto;
-  margin: 0;
-  padding: 0;
-  min-height: 0;
+  margin: 2;
+  padding: 2;
+  min-height: 3;
   overflow: auto;
   list-style-type: none;
 }
@@ -886,8 +886,8 @@ strong{
   background:rgba(125, 188, 255, 0.6); }
 .bp3-heading{
   color:#182026;
-  font-weight:600;
-  margin:0 0 10px;
+  font-weight:650;
+  margin:0 0 13px;
   padding:0; }
   .bp3-dark .bp3-heading{
     color:#f5f8fa; }
@@ -983,7 +983,7 @@ h6.bp3-heading, .bp3-running-text h6{
     color:#182026;
     font-weight:600;
     margin-top:40px;
-    margin-bottom:20px; }
+    margin-bottom:25px; }
     .bp3-dark .bp3-running-text h6{
       color:#f5f8fa; }
   .bp3-running-text hr{
