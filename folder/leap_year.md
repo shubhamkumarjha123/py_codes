@@ -1,5 +1,5 @@
 ```python
-year = int(input("Enter a year: "))
+year = int(input("Enter any year: "))
 
 if (year % 4) == 0:
    if (year % 100) == 0:
