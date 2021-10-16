@@ -1,4 +1,4 @@
-# Area of triangle.
+# Area of triangle
 
 
 ```python
