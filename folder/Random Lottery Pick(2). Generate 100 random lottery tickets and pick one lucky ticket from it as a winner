@@ -1,0 +1,70 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "00766490",
+   "metadata": {},
+   "source": [
+    "# Random Lottery Pick. Generate 100 random lottery tickets and pick one lucky ticket from it as a winner."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "fca3a9fb",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "creating 100 random lottery tickets\n",
+      "Lucky lottery ticket winner is [1673929952]\n"
+     ]
+    }
+   ],
+   "source": [
+    "import random\n",
+    "\n",
+    "lottery_tickets_list = []\n",
+    "print(\"creating 100 random lottery tickets\")\n",
+    "# to get 100 ticket\n",
+    "for i in range(100):\n",
+    "    # ticket number must be 10 digit (1000000000, 9999999999)\n",
+    "    lottery_tickets_list.append(random.randrange(1000000000, 9999999999))\n",
+    "# pick 1 luck tickets\n",
+    "winners = random.sample(lottery_tickets_list, 1)\n",
+    "print(\"Lucky lottery ticket winner is\", winners)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ae8f4889",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
