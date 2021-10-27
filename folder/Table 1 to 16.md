@@ -1,4 +1,4 @@
-#  Table 1 to 15
+#  Table from 1 to 15
 
 
 ```python
