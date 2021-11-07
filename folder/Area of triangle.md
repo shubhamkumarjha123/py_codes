@@ -1,4 +1,4 @@
-# Area of triangle
+#To Find Area of triangle
 
 
 ```python
