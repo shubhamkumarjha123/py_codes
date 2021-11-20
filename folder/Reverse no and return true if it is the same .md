@@ -1,4 +1,4 @@
-# Reverse no and  then return true if it is the same 
+# Reverse the no and  then return true if it is the same 
 
 
 ```python
