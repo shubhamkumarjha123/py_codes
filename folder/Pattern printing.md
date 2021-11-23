@@ -15,7 +15,7 @@
 ```python
 row = 9
 y = 0
-# reversing loop i.e 9 to 0
+# reversing loop i.e from 9 to 0
 for i in range(row, 0, -1):
     y += 1
     for j in range(1, i + 1):
