@@ -1,4 +1,4 @@
-# Make a inner fun
+# Make a inner func.
 
 
 ```python
