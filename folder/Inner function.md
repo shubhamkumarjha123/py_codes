@@ -3,7 +3,7 @@
 
 ```python
 def manipulate(x, y):
-    # concatenate two strings
+    # concatenate two strings together
     def inner_fun(x, y):
         return x + y
 
