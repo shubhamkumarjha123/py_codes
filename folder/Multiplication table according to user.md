@@ -1,4 +1,4 @@
-# Multiplication table according to the user
+# Multiplication table according to the user choosen no
 
 
 ```python
