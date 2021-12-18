@@ -1,5 +1,5 @@
 ```python
-# take single line input name, age and percentages of the student and print them 
+# take single line input name, age and percentage of the student and print them.
 name, age, perc = input("Enter student's details: ").split()
 print("Name: ", name)
 print("Age: ", age)
