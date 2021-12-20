@@ -1,4 +1,4 @@
-# current date and time printing in Py
+# current date and time printing 
 
 
 ```python
