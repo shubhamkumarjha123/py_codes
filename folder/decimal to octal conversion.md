@@ -1,4 +1,4 @@
-# Decimal to octal using print() output formatting.
+# Decimal to octal conv using print() output formatting.
 
 
 ```python
