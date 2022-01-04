@@ -9,5 +9,5 @@ no = input("enter char -")
 print ("The original string  is - ",end="")
 print (no)
   
-print ("The reversed string(using loops) is - ",end="")
+print ("The reversed string(using loops) is : ",end="")
 print (reverse(no))
