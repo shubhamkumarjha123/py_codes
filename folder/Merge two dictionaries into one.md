@@ -1,4 +1,4 @@
-# Merge two dictionaries into one
+# Merge two dictionaries into one.
 
 
 ```python
