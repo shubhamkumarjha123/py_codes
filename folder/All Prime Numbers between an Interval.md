@@ -1,5 +1,5 @@
 ```python
-# Program to Print all Prime Numbers between an Interval
+# Program to Print all Prime Numbers between an Interval.
 x = int(input("Enter lower range: "))  
 y = int(input("Enter upper range: "))  
       
