@@ -1,4 +1,4 @@
-# Fibonacci sequence
+# Fibonacci sequence.
 
 
 ```python
