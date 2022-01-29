@@ -1,4 +1,4 @@
-# Convert string into a datetime object type
+# Convert string into a datetime object type.
 
 
 ```python
