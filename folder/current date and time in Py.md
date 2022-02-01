@@ -1,4 +1,4 @@
-# current date and time printing 
+# current date and time printing.
 
 
 ```python
