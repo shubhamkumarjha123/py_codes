@@ -1,4 +1,4 @@
-# Roll dice in such a way that every time you get the same number on it
+# Roll dice in such a way that every time you get the same number on it.
 
 
 ```python
