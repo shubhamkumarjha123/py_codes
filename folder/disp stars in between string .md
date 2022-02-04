@@ -1,4 +1,4 @@
-# Display the given string “Hello”,“My”,“Name”, “Is”, “Shubham Kumar Jha” as “Hello**My**Name**Is**Shubham Kumar Jha”
+# Display the given string “Hello”,“My”,“Name”, “Is”, “Shubham Kumar Jha” as “Hello**My**Name**Is**Shubham Kumar Jha”.
 
 
 ```python
