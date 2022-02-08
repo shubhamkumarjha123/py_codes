@@ -1,4 +1,4 @@
-# Print no. in backward order from user inputed no. till -1 using for loop.
+# Print no. in backward order from user inputed no till -1 using for loop.
 
 
 ```python
