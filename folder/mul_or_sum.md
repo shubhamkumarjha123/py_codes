@@ -1,4 +1,4 @@
-# Take 2 no in input if the product of no's is greater than 500, then return their sum otherwise return their product only.
+# Take 2 no. in input if the product of no's is greater than 500, then return their sum otherwise return their product only.
 
 
 ```python
