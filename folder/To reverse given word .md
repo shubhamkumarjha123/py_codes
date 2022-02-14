@@ -1,4 +1,4 @@
-# To reverse given word 
+# To reverse the given word .
 
 
 ```python
