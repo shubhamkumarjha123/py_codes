@@ -1,4 +1,4 @@
-# Given a list of numbers, return True if first and last number of a list is same
+# Given a list of numbers, return True if first and last number of a list is same.
 
 
 ```python
