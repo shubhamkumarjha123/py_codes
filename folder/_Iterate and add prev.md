@@ -1,4 +1,4 @@
-# Given a range of the first 50 numbers, Iterate from the start number to the end number, and In each iteration print the sum of the current number and previous number
+# Given a range of the first 50 numbers, Iterate from the start number to the end number, and In each iteration print the sum of the current number and previous no.
 
 
 ```python
