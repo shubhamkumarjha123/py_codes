@@ -1,4 +1,4 @@
-# With two provided list create one list such that new list contain only odd numbers from the first list and even numbers from the second list
+# With two provided list create one list such that new list contain only odd numbers from the first list and even number from the second list
 
 
 
