@@ -1,4 +1,4 @@
-# Print the pattern
+# Print the pattern.
 
 
 111111111                                                                   
