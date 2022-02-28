@@ -1,4 +1,4 @@
-# Generate a random date between given start & end dates.
+# Generate random date between given start & end dates.
 
 
 ```python
