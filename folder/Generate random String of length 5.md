@@ -1,4 +1,4 @@
-# Generate random String of length 5.
+# Generate random String of len 5.
 
 
 ```python
