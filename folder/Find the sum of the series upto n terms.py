@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Find the sum of the series upto n terms
+# # Find the sum of the series upto n terms.
 
 # In[1]:
 
