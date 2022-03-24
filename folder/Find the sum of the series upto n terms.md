@@ -1,4 +1,4 @@
-# Find the sum of the series upto n terms
+# Find sum of the series upto n terms.
 
 
 ```python
