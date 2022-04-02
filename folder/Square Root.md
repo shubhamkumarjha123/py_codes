@@ -1,8 +1,8 @@
 ```python
-# To Find the Square Root of no given by user
+# To Find the Square Root of no given by user.
 a_no = int(input("enter a number: "))
 square_root = a_no ** 0.5
-print("square root:", square_root)
+print("square root:-", square_root)
 ```
 
     enter a number: 81
