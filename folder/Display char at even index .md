@@ -1,4 +1,4 @@
-# For a string, display char that present at the even index 
+# For a string, display char that present at the even index.
 
 
 ```python
