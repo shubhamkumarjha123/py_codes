@@ -1,4 +1,4 @@
-# Calculate income tax for the given income by adhering to the below rules
+# Calculate income tax for the given income by adhering to the below rules.
 
 
 ```python
