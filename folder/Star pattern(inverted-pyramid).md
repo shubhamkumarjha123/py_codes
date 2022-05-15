@@ -1,4 +1,4 @@
-# Star pattern(inverted-pyramid)
+# Star pattern(inverted-pyramid).
 
 
 ```python
