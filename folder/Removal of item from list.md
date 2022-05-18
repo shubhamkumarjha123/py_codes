@@ -1,4 +1,4 @@
-# Removal of item from given list.
+# Removal of item from given list
 
 
 ```python
