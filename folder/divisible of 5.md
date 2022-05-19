@@ -1,4 +1,4 @@
-# For a list print which are divisible of 5
+# For a list print which are divisible of 5.
 
 
 ```python
