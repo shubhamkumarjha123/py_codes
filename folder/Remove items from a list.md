@@ -1,4 +1,4 @@
-# Remove items from a taken list while iterating but without creating a different copy of a list  (Here remove no > 70)
+# Remove items from a taken list while iterating but without creating a different copy of a list  (Here remove no. > 70)
 
 
 ```python
