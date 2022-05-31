@@ -1,4 +1,4 @@
-# Pattern Printing.
+# Pattern Printing
 
 
 ```python
