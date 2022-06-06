@@ -1,5 +1,4 @@
-# Write a function called exponent(base,exp) that returns an integer value of base raise to the power of expo
-
+# Write a function called exponent(base,exp) that returns an integer value of base raise to the power of exp.
 
 ```python
 def exponent(base, exp):
