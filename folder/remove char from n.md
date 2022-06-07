@@ -1,4 +1,4 @@
-# Given a string and an integer number n, remove characters from a string starting from zero till n and return a new str.
+# Given a string and an integer number n, remove characters from a string starting from zero till n and return a new str
 
 
 ```python
