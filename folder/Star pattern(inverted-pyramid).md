@@ -1,4 +1,4 @@
-# Star pattern printing (inverted-pyramid).
+# Star pattern printing (inverted-pyramid)
 
 
 ```python
