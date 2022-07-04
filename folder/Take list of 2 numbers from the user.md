@@ -1,4 +1,4 @@
-# Take list of 2  numbers from the user
+# Take list of 2  numbers from the user.
 
 
 ```python
