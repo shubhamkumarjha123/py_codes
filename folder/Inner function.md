@@ -1,4 +1,4 @@
-# Make a inner funct. in py
+# Make a inner funct. in py.
 
 
 ```python
