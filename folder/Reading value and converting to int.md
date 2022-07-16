@@ -1,5 +1,5 @@
 ```python
-# Reading  value and converting it to int
+# Reading  value and converting it into int
 val2 = int(input("Enter any number: "))
 print("value of val2: ", val2)
 print("type of val2: ", type(val2)) # print value and type
