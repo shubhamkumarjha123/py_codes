@@ -1,4 +1,4 @@
-# convert 2 list into dict
+# convert 2 list into dictionary
 
 
 ```python
