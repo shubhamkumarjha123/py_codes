@@ -7,7 +7,7 @@
 
 
 n = 5
-# first number of sequence
+# first number of sequence.
 start = 2
 sum_seq = 0
 
