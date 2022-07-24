@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # convert 2 list into dictionary
+# # convert 2 list into dictionary.
 
 # In[3]:
 
