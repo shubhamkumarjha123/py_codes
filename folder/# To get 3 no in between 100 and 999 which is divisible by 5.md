@@ -1,4 +1,4 @@
-# To get 3 no in between 100 and 999 which is divisible by 5.
+# To get 3 no in between 100 and 999 which is divisible by 5
 
 
 ```python
