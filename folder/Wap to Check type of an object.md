@@ -1,4 +1,4 @@
-# Wap to Check the type of object.
+# Wap to Check the type of obj.
 
 
 ```python
