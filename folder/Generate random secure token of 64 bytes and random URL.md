@@ -1,4 +1,4 @@
-# Generate random secure token of 64 bytes and random URL
+# Generate random secure token of 64 bytes and random URL.
 
 
 ```python
