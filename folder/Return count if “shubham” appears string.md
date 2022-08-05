@@ -1,4 +1,4 @@
-# Return count if “shubham” appears in the string.
+# Return count if “shubham” appears in the string
 
 
 ```python
