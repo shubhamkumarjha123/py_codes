@@ -1,4 +1,4 @@
-# User input number
+# User input number.
 
 
 ```python
