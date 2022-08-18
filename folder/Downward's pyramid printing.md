@@ -1,4 +1,4 @@
-# Downward's pyramid printing.
+# Downward's pyramid printing
 
 
 ```python
