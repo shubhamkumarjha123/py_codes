@@ -1,4 +1,4 @@
-# Fibonacci sequence printing in python.
+# Fibonacci sequence printing in python
 
 
 ```python
