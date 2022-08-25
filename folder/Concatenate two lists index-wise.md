@@ -1,4 +1,4 @@
-# Concatenate two lists index-wise
+# Concatenate two lists index-wise.
 
 
 ```python
