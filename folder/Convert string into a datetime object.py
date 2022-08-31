@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Convert string into a datetime object
+# # Convert string into a datetime object.
 
 # In[2]:
 
