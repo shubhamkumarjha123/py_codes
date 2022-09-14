@@ -2,7 +2,7 @@
 
 
 ```python
-a = int(input ("Enter the number for which table you want"))      
+a = int(input ("Enter the number for which table you want."))      
 print ("The Multiplication Table of: ", a)    
 for count in range(1, 11): 
     print (a, 'x', count, '=', a * count)    
