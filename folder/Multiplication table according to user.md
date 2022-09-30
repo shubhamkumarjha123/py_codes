@@ -1,4 +1,4 @@
-# Multiplication table according to the user choosen number and print the Table.
+# Multiplication table according to the user choosen number and print the Table
 
 
 ```python
